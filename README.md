@@ -2,9 +2,9 @@
 
 ## 🌍 Sobre o Repositório | About This Repository
 
-Este repositório reúne **boas práticas essenciais** para trabalhar com a AWS de forma **eficiente, segura e escalável** — com foco especial em infraestrutura como código (Terraform), segurança, automação e organização profissional.
+Olá, pessoal! Este repositório reúne **boas práticas essenciais** para trabalhar com a AWS de forma **eficiente, segura e escalável** — com foco especial em infraestrutura como código (Terraform), segurança, automação e organização profissional.
 
-This repository compiles **must-know AWS best practices** for building secure, scalable and efficient cloud environments — with a strong focus on infrastructure as code (Terraform), automation, and production-grade standards.
+Hi, guys! This repository compiles **must-know AWS best practices** for building secure, scalable and efficient cloud environments — with a strong focus on infrastructure as code (Terraform), automation, and production-grade standards.
 
 ---
 
