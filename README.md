@@ -30,7 +30,7 @@ This repository compiles **must-know AWS best practices** for building secure, s
 
 ## 💡 Visite também:
 
-📌 [aws-cloud-projects](https://github.com/SEU-USUARIO/aws-cloud-projects) – Projetos práticos com Terraform + AWS (EC2, RDS, Lambda, VPC, CloudFront...)
+📌 [aws-cloud-projects](https://github.com/Emersoft76/aws-cloud-projects) – Projetos práticos com Terraform + AWS (EC2, RDS, Lambda, VPC, CloudFront...)
 
 ---
 
